@@ -1,7 +1,7 @@
 node {
 
     def tag = "3.0"
-    def dockerHubUser = "vijay@silverferndigital.com"
+    def dockerHubUser = "vijaybarthwal1"
     def containerName = "bankingapp"
     def httpPort = "8989"
     def containerPort = "8989"
